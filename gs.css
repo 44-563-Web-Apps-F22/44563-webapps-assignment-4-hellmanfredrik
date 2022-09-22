@@ -45,3 +45,13 @@ color: brown;
 .CONST{
 color: darkblue;
 }
+
+
+table, th, td {
+    border: 1px solid;
+    color: green;
+    background-color: lightcoral;
+    text-align: center;
+    grid-row: auto;
+
+  }
