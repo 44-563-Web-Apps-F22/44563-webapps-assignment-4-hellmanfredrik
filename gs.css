@@ -1,0 +1,39 @@
+
+h6 { color:green;}
+p { background:lightblue; font-family:Times;}
+
+.speech{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: black;
+}
+
+.song{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+
+.direction{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+
+.name{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+
+.speech:hover{
+color: red;
+}
+
+.song:hover{
+    color: red;
+}
+
+.direction:hover{
+color: red;
+}
+
+.name:hover{
+    color: red;
+}
