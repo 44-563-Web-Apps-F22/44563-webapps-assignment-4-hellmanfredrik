@@ -1,24 +1,24 @@
 
-h6 { color:green;}
-p { background:lightblue; font-family:Times;}
+
 
 .speech{
-font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font:x-large;
 color: black;
 }
 
 .song{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font:x-large;
     color: black;
 }
 
 .direction{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font:x-large;
     color: black;
+    background-color: lightblue;
 }
 
 .name{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font:x-large;
     color: black;
 }
 
@@ -36,4 +36,12 @@ color: red;
 
 .name:hover{
     color: red;
+}
+
+.mrsP {
+color: brown;
+}
+
+.CONST{
+color: darkblue;
 }
