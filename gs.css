@@ -36,6 +36,9 @@ color: red;
 
 .name:hover{
     color: red;
+    background-color: yellow;
+    font-size: larger;
+    
 }
 
 .mrsP {
